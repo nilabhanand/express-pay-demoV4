@@ -36,44 +36,42 @@
 
 .inputFieldCss {
     background-color: #d6d0d02a;
-    width: 100%;
+    width: 50%;
     height: 50px;
     border: 'white';
-    border-radius: 2px;
+    border-radius: 4px;
+    opacity: 0.75;
 }
-
-.inputFieldCss {
-    background-color: #d6d0d02a;
-    width: 100%;
-    height: 50px;
-    border: 'white';
-    border-radius: 2px;
-  }
 
 .passwordFieldCssClass {
     background-color: #d6d0d02a;
-    width: 100%;
+    width: 50%;
     height: 50px;
     border: 'white';
-    border-radius: 2px;
+    borderRadius: 4px;
 }
 
 .totalAmountUSDFieldCssClass {
     background-color: #d6d0d02a;
     width: 100px;
     height: 50px;
+    borderRadius: 4px;
 }
 
 .totalAmountFieldCssClass {
     background-color: #d6d0d02a;
     width: 80px;
     height: 50px;
+    borderRadius: 4px;
+    opacity: 0.75;
 }
 
 .currencyFieldCssClass {
-    background-color: '#d6d0d02a';
-    width: 70px;
+    background-color: #d6d0d02a;
+    width: 80px;
     height: 50px;
+    borderRadius: 4px;
+    opacity: 0.75;
 }
 
 .btn-link{
