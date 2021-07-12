@@ -71,8 +71,8 @@
 }
 
 .totalAmountFieldCssClass {
-    background-color: #d6d0d02a;
-    width: 80px;
+    background-color: none;
+    width: 50%;
     height: 50px;
     borderRadius: 4px;
     border: 'white';
@@ -80,8 +80,8 @@
 }
 
 .currencyFieldCssClass {
-    background-color: #d6d0d02a;
-    width: 80px;
+    background-color: none;
+    width: 50%;
     height: 50px;
     borderRadius: 4px;
     border: 'white';
