@@ -36,7 +36,7 @@
 
 .inputFieldCss {
     background-color: #d6d0d02a;
-    width: 50%;
+    width: 70%;
     height: 50px;
     border: 'white';
     border-radius: 4px;
@@ -45,7 +45,7 @@
 
 .passwordFieldCssClass {
     background-color: #d6d0d02a;
-    width: 50%;
+    width: 70%;
     height: 50px;
     border: 'white';
     borderRadius: 4px;
