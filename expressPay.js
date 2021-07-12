@@ -10,4 +10,4 @@ eliaexpressPay.addInputTwo = 'false';
 eliaexpressPay.addInputTwoTitle = 'Input';
 eliaexpressPay.paymentMessage = 'Payment message description';
 eliaexpressPay.confirmationMessage = 'This is a customisable confirmation or thank you message. It will be editible from the express pay editor, along with title, logo, button colors, input colors.';
-eliaexpressPay.customCssAddress = 'Users/nilabhanand/Desktop/demoV4/public_html/index.html';
+eliaexpressPay.customCssAddress = 'https://nilabhanand.github.io/express-pay-demoV4/style.css';
