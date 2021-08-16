@@ -1,4 +1,7 @@
 .main {
+    background: url('https://nilabhanand.github.io/express-pay-demoV4/bgpopup.png');
+    background-repeat: none;
+    background-size: cover;
     color: white;
     font-weight: 400;
     height: 1000px !important;
