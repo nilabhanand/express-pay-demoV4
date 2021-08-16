@@ -5,6 +5,7 @@
     color: white;
     font-weight: 400;
     height: 1200px !important;
+    padding-bottom: 25px;
     min-width: 300px;
     align-items: center;
  }
